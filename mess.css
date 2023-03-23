@@ -1,3 +1,4 @@
 .title {display: inline-block;width: 100%;}
+.GG {display: block;}
 .Bottom {padding: 70px; border: 10px solid red;}
-.underline {text-decoration: none;}
+.underline {text-decoration: none; color: inherit;}
