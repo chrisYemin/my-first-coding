@@ -1,44 +1,51 @@
 .title {display: inline-block;
         width: 100%;
 }
-.underline {text-decoration: none;
-    color: inherit;
-}
 
-.ZZ {margin-left: 600px;}
-.ZG {margin-left: 20px;}
-.ZH {margin-left: 300px;}
-.ZX {margin-top: -45px;font-size: 60px;}
-.colorM {color: rgb(122, 22, 22);}
-.ZM {margin-top: 50px; font-size: 60px;}
+
+
+.ZZ {margin-left: 690px;}
+.ZG {margin-left: 23px;}
+.ZH {margin-left: 350px; margin-top: 20px;}
+.ZX {margin-top: -55px;font-size: 70px;}
+.colorM {color: rgb(177, 162, 162);}
+.ZM {margin-top: 55px; font-size: 70px;}
 .ZO {font-size: 20px; margin-top: -25px;}
 .ZI {font-size: 20px; margin-bottom: 30px;}
 
 .GG {display: block;
-    margin-top: 12px;
-    margin-bottom: 12px;
+    margin-top: 40px;
+    margin-bottom: 30px;
     border: none;
     background-color: black;
-    height: 30px; width: 320px;
+    height: 35px; width: 320px; padding-left: 14px;
+    width: 330px;
     border-radius: 10px;
 }
-.GH {margin-bottom: 30px;
-    margin-top:20px ;
+.GH {margin-bottom: 10px;
+    margin-top:15px ;
 }
 
 .color {background-color: rgb(0, 116, 255);
-        border-radius: 24px;
+        border-radius: 30px;
         border: none; color: white;
         font-size: 19px;
-        height: 40px;
-        padding: 2px 20px 0px;
+        height: 45px;
+        padding: 2px 22px 0px;
         
 }
-.Bottom {padding: 70px;
-         border: 10px 
-         solid red;
+.Bottom {display: inline-block;
+        padding: 50px;
+        padding-bottom: 0px; 
+        padding-right: 0px;
+         border: 2px 
+         solid red; font-size: 15px;
+         margin-left: 310px;
+         margin-top: 100px;
+         margin-bottom: -0px;
 }
-.LL {margin-top: 35px;
-    margin-bottom: 30px;
+.LL {margin-top: 38px;
+    margin-bottom: 15px;
 }
-.PP {margin-left: 15px;}
+.PP {margin-left: 15px; font-size: 16px; font-style: inherit;}
+.BB {margin-left: 50px; font-size: 15px;}
