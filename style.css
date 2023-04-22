@@ -1,0 +1,6 @@
+.menu {}
+.main {background-color: red;}
+.bottom {background-color: blue;}
+.photo {width: 30px; height: 30px;}
+.left {display: inline-block; width: 40%; background-color: yellow;}
+.right {display: inline-block; background-color: orange; width: 20%;}
