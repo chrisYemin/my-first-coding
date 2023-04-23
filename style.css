@@ -1,6 +1,13 @@
-.menu {}
-.main {background-color: red;}
-.bottom {background-color: blue;}
+.top {background-color: black;}
+
+.middle {}
+
+.bottom {background-color: rgb(64, 64, 119);}
+
 .photo {width: 30px; height: 30px;}
-.left {display: inline-block; width: 40%; background-color: yellow;}
-.right {display: inline-block; background-color: orange; width: 20%;}
+
+.left {display: inline-block; width: 45%;}
+
+.right {display:inline-block; width: 50%;}
+
+.rightphoto {width: 220px; height: 220px;}
